@@ -10,9 +10,3 @@ esse projeto visa um bot para o whatsapp feito com nodeJS que consistte no uso d
 <h1 align="center">
     <img alt="Filmes" title="Filmes" src="https://github.com/flavyss/bot_whatsapp_node/blob/main/fotos/i3.jpg" />
 </h1>
-<h1 align="center">
-    <img alt="Filmes" title="Filmes" src="https://github.com/flavyss/bot_whatsapp_node/blob/main/fotos/i4.jpg" />
-</h1>
-<h1 align="center">
-    <img alt="Filmes" title="Filmes" src="https://github.com/flavyss/bot_whatsapp_node/blob/main/fotos/i5.jpg" />
-</h1>
